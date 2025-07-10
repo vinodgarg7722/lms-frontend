@@ -1,13 +1,12 @@
-import './App.css'
+// src/App.jsx
 
+import './index.css'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      lms
+    lms
     </>
-  )
+  );
 }
 
-export default App
+export default App;
