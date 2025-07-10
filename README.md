@@ -52,3 +52,6 @@ npx tailwindcss init
 @tailwind components;
 @tailwind utilities;
 ...
+
+### Adding plugins and dependencies
+
